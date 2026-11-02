@@ -21,6 +21,7 @@ class Account(Base):
     )
 
 
+
 class Transaction(Base):
     __tablename__ = "transactions"
 
