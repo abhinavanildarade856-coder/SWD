@@ -1,0 +1,5 @@
+Add-Content .gitignore "bank-transfer-api/"
+Add-Content .gitignore ".venv/"
+Add-Content .gitignore ".vscode/"
+Add-Content .gitignore "__pycache__/"
+Add-Content .gitignore ".env"
